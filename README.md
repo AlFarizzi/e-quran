@@ -2,6 +2,6 @@
 
 |           | Link         |
 | :------------- | :----------: |
-|  E-Qur'an | https://randominfo.herokuapp.com/presiden/indonesia |
+|  E-Qur'an | https://e-quran-64230.web.app/ |
 
 
